@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c2438"/>
+      <stop offset="100%" stop-color="#120f18"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <circle cx="400" cy="255" r="90" fill="none" stroke="#b27cf9" stroke-width="4" opacity="0.35"/>
+  <g transform="translate(400,255)" fill="none" stroke="#b27cf9" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-55,50 v-25 l25,-15 M-15,50 v-45 l25,-15 M25,50 v-65 l25,-15"/>
+    <path d="M-70,50 h140"/>
+  </g>
+  <text x="400" y="500" text-anchor="middle" font-family="Poppins, sans-serif" font-size="30" font-weight="600" fill="#f5f5f5">Softbenz Infosys</text>
+  <text x="400" y="536" text-anchor="middle" font-family="Poppins, sans-serif" font-size="18" fill="#c9c9c9">Digital Marketing</text>
+</svg>
